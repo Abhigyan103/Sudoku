@@ -11,7 +11,8 @@ input {
 }
 input:focus {
   outline: none;
-  box-shadow: 0 0 20px rgba(128, 0, 128, 0.73);
+  box-shadow: 0 0 20px rgba(188, 3, 188, 0.73);
+  /* border-color:rgba(241, 4, 241, 0.73); */
 }
 button {
   margin-top: 7px;
